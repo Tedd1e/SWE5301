@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Week1.App.PythonTranslation/Week1.App.PythonTranslation.csproj" />
+    <Project Path="src/Week1.Core/Week1.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Practice.Tests/Practice.Tests.csproj" />
+    <Project Path="tests/Week1_Exercise_Test/Week1_Exercise_Test.csproj" />
+  </Folder>
+</Solution>
